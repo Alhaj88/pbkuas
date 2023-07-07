@@ -1,4 +1,6 @@
 # pbkuas
+NAMA: ALHAJ PURMA
+NPM: 213510373
 
 ## Project setup
 ```
